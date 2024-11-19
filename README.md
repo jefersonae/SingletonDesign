@@ -1,1 +1,2 @@
-# SingletonDesign
+# SingletonDesignPattern
+Singleton Design Pattern is a Creational Design Pattern that ensures a class has only one instance and provides a global point of access to it. It is used in scenarios when a user wants to restrict the instantiation of a class to only one
